@@ -1,1 +1,1 @@
-A Spring Boot Todo Application with toggling and deleting of todos.
+A Spring Boot Todo Application with toggling and deletion of todos.
